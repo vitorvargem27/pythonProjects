@@ -16,9 +16,11 @@ Membros dos projetos : Vitor Vargem Julio Barbosa.
 ## Passo a passo para a instalação do Python
 Instalar o Python 3 pelo link (https://www.python.org/downloads/) para funcionar.
 
-1. Clone o repositório e entre na pasta do projeto:
+1. Clone o repositório e navegue por nossos códigos:
 ```sh
 git clone https://github.com/vitorvargem27/pythonProjects.git
 ```
+
+## Navegue À vontade!
 
 
