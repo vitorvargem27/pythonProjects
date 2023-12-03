@@ -1,11 +1,11 @@
-# CodeCreators
-### Projeto desenvolvido para conclusão de curso - Start Tech Turma 02 - TOTVS
+# Python Projects
+### Projetos de Python desenvolvidos por Vitor Vargem Julio Barbosa
 
 
 ![Print do Projeto](https://i.ibb.co/Wgc7wdb/fundoo.png)
-Projeto desenvolvido em Angular para finalização do módulo 04 - Start Tech.
+Projetos desenvolvidos em Python para experiência.
 
-Membros dos projetos : Vitor Vargem.
+Membros dos projetos : Vitor Vargem Julio Barbosa.
 ## Tecnologias Usadas
 - Python3
 
@@ -18,8 +18,7 @@ Instalar o Python 3 pelo link (https://www.python.org/downloads/) para funcionar
 
 1. Clone o repositório e entre na pasta do projeto:
 ```sh
-git clone https://github.com/FelipeLRomao/Projeto-Final-Start-Tech-Totvs.git
-cd Projeto-Final-Start-Tech-Totvs
+git clone 
 ```
 
 
