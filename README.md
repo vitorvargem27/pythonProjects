@@ -3,24 +3,24 @@
 
 
 ![Print do Projeto](https://i.ibb.co/8KyKHMz/cod-python.png)
-Projetos desenvolvidos em Python para experiência.
+Python projects developed by experience.
 
-Membros dos projetos : Vitor Vargem Julio Barbosa.
-## Tecnologias Usadas
+Project Members : Vitor Vargem Julio Barbosa.
+## Used technologies :
 - Python3
 
-## IDEs usadas 
+## Used IDEs : 
 - PyCharm
 - Visual Studio Code
 
-## Passo a passo para a instalação do Python
-Instalar o Python 3 pelo link (https://www.python.org/downloads/) para funcionar.
+## How make the Python Installation :
+Instalal a Python 3 with the link (https://www.python.org/downloads/) for clear.
 
-1. Clone o repositório:
+1. Clone the repository:
 ```sh
 git clone https://github.com/vitorvargem27/pythonProjects.git
 ```
 
-## Navegue à vontade por nossos códigos!!
+## Navigate as you like with our codes!!
 
 
