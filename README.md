@@ -1,5 +1,5 @@
 # Python Projects
-### Projetos de Python desenvolvidos por Vitor Vargem Julio Barbosa
+### Python projects developed by Vitor Vargem Julio Barbosa
 
 
 ![Print do Projeto](https://i.ibb.co/8KyKHMz/cod-python.png)
