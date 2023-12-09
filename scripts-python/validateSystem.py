@@ -10,6 +10,7 @@ def verifyUser(userTest) :
             codeList.append(code)
             code += 1
             print(codeList)
+            
         elif len(usersName) > 0 :
             for x in range(0, len(usersName)) :
                 while userTest["name"] == usersName[x] :

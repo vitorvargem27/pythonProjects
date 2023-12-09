@@ -1,12 +1,11 @@
 import time
 
+program = True
 menCount = 0
 womanUnder20 = 0
 age18 = 0
 menList = []
 womanList = []
-
-program = True
 
 while program :
     choose = str(input('You want continue to register a member?'
@@ -37,6 +36,5 @@ print(f'After the end of registers...\n')
 print(f'The quantity of \033[1:37mpersons\033[m over 18 is {age18} persons')
 print(f'The quantity of \033[1:36mmens\033[m registered is {menCount} men')
 print(f'The quantity of \033[1:31mwomans\033[m registered is {womanUnder20} women')
-
 print(f'The name list of men is : {menList}')
 print(f'The name list of women is : {womanList}')
