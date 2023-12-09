@@ -1,4 +1,9 @@
 def studentsNotes() :
+    """
+    Student notes register and validate function
+    :return: none
+    """
+    
     studentsData["biggerNote"] = 0
     studentsData["lowerNote"] = 0
     studentsData["quantity"] = 0
